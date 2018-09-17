@@ -1,5 +1,5 @@
 # News-Summarization
-News Summarization 
+
 This repository contains the implementation of a news summarizer.
 The four-stage pipeline involved in its design is:
 1) Designing a web scraper to scrap off the news from multiple websites(built using Scrapy for Python)
